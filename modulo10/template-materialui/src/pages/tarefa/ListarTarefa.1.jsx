@@ -61,8 +61,8 @@ export const ListarTarefa = () => {
     <>
       <Card>
         <CardHeader
-          title="Tarefas do Felipe"
-          subheader="Listagem de Tarefas do Felipe" />
+          title="Tarefas do Felipe Correia"
+          subheader="Listagem de Tarefas do Felipe Correia" />
         <CardContent>
           <TableContainer component={Paper}>
             <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
